@@ -10,7 +10,6 @@ import cookieParser from 'cookie-parser';
 import compression from 'compression';
 import { errorHandler } from './middleware/error.middleware';
 import client from './loaders/db.loader';
-import { resolve } from 'path';
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const packageJson = require('../package.json');
 
