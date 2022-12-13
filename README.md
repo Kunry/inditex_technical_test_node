@@ -80,7 +80,7 @@ On the `Connection` tab values must match the `docker-compose.yml` file:
 
 Now you can navigate from the left bar:
 
-`Servers -> whatever-you-want -> Databases -> root -> Schemas -> public -> Tables -> employees`
+`Servers -> whatever-you-want -> Databases -> root -> Schemas -> public -> Tables -> prices`
 
 Right click `prices` an Query Tool:
 
