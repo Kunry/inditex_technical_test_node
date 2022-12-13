@@ -82,7 +82,7 @@ Now you can navigate from the left bar:
 
 `Servers -> whatever-you-want -> Databases -> root -> Schemas -> public -> Tables -> employees`
 
-Right click `employees` an Query Tool:
+Right click `prices` an Query Tool:
 
 ```sql
 SELECT * FROM prices;
